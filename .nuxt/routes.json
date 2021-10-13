@@ -1,0 +1,452 @@
+[
+  {
+    "name": "about-us",
+    "path": "/about-us",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\about-us.vue",
+    "chunkName": "pages/about-us"
+  },
+  {
+    "name": "products",
+    "path": "/products",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\products\\\\index.vue",
+    "chunkName": "pages/products/index"
+  },
+  {
+    "name": "store-locator",
+    "path": "/store-locator",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\store-locator.vue",
+    "chunkName": "pages/store-locator"
+  },
+  {
+    "name": "collection-full-width",
+    "path": "/collection/full-width",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\collection\\\\full-width.vue",
+    "chunkName": "pages/collection/full-width"
+  },
+  {
+    "name": "collection-list-view",
+    "path": "/collection/list-view",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\collection\\\\list-view.vue",
+    "chunkName": "pages/collection/list-view"
+  },
+  {
+    "name": "collection-metro",
+    "path": "/collection/metro",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\collection\\\\metro.vue",
+    "chunkName": "pages/collection/metro"
+  },
+  {
+    "name": "collection-no-sidebar",
+    "path": "/collection/no-sidebar",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\collection\\\\no-sidebar.vue",
+    "chunkName": "pages/collection/no-sidebar"
+  },
+  {
+    "name": "collection-right-sidebar",
+    "path": "/collection/right-sidebar",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\collection\\\\right-sidebar.vue",
+    "chunkName": "pages/collection/right-sidebar"
+  },
+  {
+    "name": "collection-sidebar-popup",
+    "path": "/collection/sidebar-popup",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\collection\\\\sidebar-popup.vue",
+    "chunkName": "pages/collection/sidebar-popup"
+  },
+  {
+    "name": "collection-six-grid",
+    "path": "/collection/six-grid",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\collection\\\\six-grid.vue",
+    "chunkName": "pages/collection/six-grid"
+  },
+  {
+    "name": "collection-three-grid",
+    "path": "/collection/three-grid",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\collection\\\\three-grid.vue",
+    "chunkName": "pages/collection/three-grid"
+  },
+  {
+    "name": "page-404",
+    "path": "/page/404",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\404.vue",
+    "chunkName": "pages/page/404"
+  },
+  {
+    "name": "page-about",
+    "path": "/page/about",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\about.vue",
+    "chunkName": "pages/page/about"
+  },
+  {
+    "name": "page-collection",
+    "path": "/page/collection",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\collection.vue",
+    "chunkName": "pages/page/collection"
+  },
+  {
+    "name": "page-coming-soon",
+    "path": "/page/coming-soon",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\coming-soon.vue",
+    "chunkName": "pages/page/coming-soon"
+  },
+  {
+    "name": "page-faq",
+    "path": "/page/faq",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\faq.vue",
+    "chunkName": "pages/page/faq"
+  },
+  {
+    "name": "page-lookbook",
+    "path": "/page/lookbook",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\lookbook.vue",
+    "chunkName": "pages/page/lookbook"
+  },
+  {
+    "name": "page-order-success",
+    "path": "/page/order-success",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\order-success.vue",
+    "chunkName": "pages/page/order-success"
+  },
+  {
+    "name": "page-review",
+    "path": "/page/review",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\review.vue",
+    "chunkName": "pages/page/review"
+  },
+  {
+    "name": "page-search",
+    "path": "/page/search",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\search.vue",
+    "chunkName": "pages/page/search"
+  },
+  {
+    "name": "page-typography",
+    "path": "/page/typography",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\typography.vue",
+    "chunkName": "pages/page/typography"
+  },
+  {
+    "name": "product-bundle-product",
+    "path": "/product/bundle-product",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\product\\\\bundle-product.vue",
+    "chunkName": "pages/product/bundle-product"
+  },
+  {
+    "name": "product-four-image",
+    "path": "/product/four-image",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\product\\\\four-image.vue",
+    "chunkName": "pages/product/four-image"
+  },
+  {
+    "name": "shop-jewellery",
+    "path": "/shop/jewellery",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\shop\\\\jewellery\\\\index.vue",
+    "chunkName": "pages/shop/jewellery/index"
+  },
+  {
+    "name": "page-account-cart",
+    "path": "/page/account/cart",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\account\\\\cart.vue",
+    "chunkName": "pages/page/account/cart"
+  },
+  {
+    "name": "page-account-checkout",
+    "path": "/page/account/checkout",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\account\\\\checkout.vue",
+    "chunkName": "pages/page/account/checkout"
+  },
+  {
+    "name": "page-account-contact",
+    "path": "/page/account/contact",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\account\\\\contact.vue",
+    "chunkName": "pages/page/account/contact"
+  },
+  {
+    "name": "page-account-dashboard",
+    "path": "/page/account/dashboard",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\account\\\\dashboard.vue",
+    "chunkName": "pages/page/account/dashboard"
+  },
+  {
+    "name": "page-account-forget-password",
+    "path": "/page/account/forget-password",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\account\\\\forget-password.vue",
+    "chunkName": "pages/page/account/forget-password"
+  },
+  {
+    "name": "page-account-login",
+    "path": "/page/account/login",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\account\\\\login.vue",
+    "chunkName": "pages/page/account/login"
+  },
+  {
+    "name": "page-account-login-firebase",
+    "path": "/page/account/login-firebase",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\account\\\\login-firebase.vue",
+    "chunkName": "pages/page/account/login-firebase"
+  },
+  {
+    "name": "page-account-profile",
+    "path": "/page/account/profile",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\account\\\\profile.vue",
+    "chunkName": "pages/page/account/profile"
+  },
+  {
+    "name": "page-account-register",
+    "path": "/page/account/register",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\account\\\\register.vue",
+    "chunkName": "pages/page/account/register"
+  },
+  {
+    "name": "page-account-wishlist",
+    "path": "/page/account/wishlist",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\account\\\\wishlist.vue",
+    "chunkName": "pages/page/account/wishlist"
+  },
+  {
+    "name": "page-compare-compare-1",
+    "path": "/page/compare/compare-1",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\compare\\\\compare-1.vue",
+    "chunkName": "pages/page/compare/compare-1"
+  },
+  {
+    "name": "page-compare-compare-2",
+    "path": "/page/compare/compare-2",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\compare\\\\compare-2.vue",
+    "chunkName": "pages/page/compare/compare-2"
+  },
+  {
+    "name": "page-element-banner",
+    "path": "/page/element/banner",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\element\\\\banner.vue",
+    "chunkName": "pages/page/element/banner"
+  },
+  {
+    "name": "page-element-category",
+    "path": "/page/element/category",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\element\\\\category.vue",
+    "chunkName": "pages/page/element/category"
+  },
+  {
+    "name": "page-element-collection-banner",
+    "path": "/page/element/collection-banner",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\element\\\\collection-banner.vue",
+    "chunkName": "pages/page/element/collection-banner"
+  },
+  {
+    "name": "page-element-home-slider",
+    "path": "/page/element/home-slider",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\element\\\\home-slider.vue",
+    "chunkName": "pages/page/element/home-slider"
+  },
+  {
+    "name": "page-element-logo-slider",
+    "path": "/page/element/logo-slider",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\element\\\\logo-slider.vue",
+    "chunkName": "pages/page/element/logo-slider"
+  },
+  {
+    "name": "page-element-multi-slider",
+    "path": "/page/element/multi-slider",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\element\\\\multi-slider.vue",
+    "chunkName": "pages/page/element/multi-slider"
+  },
+  {
+    "name": "page-element-product-slider",
+    "path": "/page/element/product-slider",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\element\\\\product-slider.vue",
+    "chunkName": "pages/page/element/product-slider"
+  },
+  {
+    "name": "page-element-product-tabs",
+    "path": "/page/element/product-tabs",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\element\\\\product-tabs.vue",
+    "chunkName": "pages/page/element/product-tabs"
+  },
+  {
+    "name": "page-element-service",
+    "path": "/page/element/service",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\element\\\\service.vue",
+    "chunkName": "pages/page/element/service"
+  },
+  {
+    "name": "page-portfolio-masonary-fullwidth",
+    "path": "/page/portfolio/masonary-fullwidth",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\portfolio\\\\masonary-fullwidth.vue",
+    "chunkName": "pages/page/portfolio/masonary-fullwidth"
+  },
+  {
+    "name": "page-portfolio-mesonary-grid-2",
+    "path": "/page/portfolio/mesonary-grid-2",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\portfolio\\\\mesonary-grid-2.vue",
+    "chunkName": "pages/page/portfolio/mesonary-grid-2"
+  },
+  {
+    "name": "page-portfolio-mesonary-grid-3",
+    "path": "/page/portfolio/mesonary-grid-3",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\portfolio\\\\mesonary-grid-3.vue",
+    "chunkName": "pages/page/portfolio/mesonary-grid-3"
+  },
+  {
+    "name": "page-portfolio-mesonary-grid-4",
+    "path": "/page/portfolio/mesonary-grid-4",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\portfolio\\\\mesonary-grid-4.vue",
+    "chunkName": "pages/page/portfolio/mesonary-grid-4"
+  },
+  {
+    "name": "page-portfolio-portfolio-2-col",
+    "path": "/page/portfolio/portfolio-2-col",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\portfolio\\\\portfolio-2-col.vue",
+    "chunkName": "pages/page/portfolio/portfolio-2-col"
+  },
+  {
+    "name": "page-portfolio-portfolio-3-col",
+    "path": "/page/portfolio/portfolio-3-col",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\portfolio\\\\portfolio-3-col.vue",
+    "chunkName": "pages/page/portfolio/portfolio-3-col"
+  },
+  {
+    "name": "page-portfolio-portfolio-4-col",
+    "path": "/page/portfolio/portfolio-4-col",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\portfolio\\\\portfolio-4-col.vue",
+    "chunkName": "pages/page/portfolio/portfolio-4-col"
+  },
+  {
+    "name": "product-sidebar-no-sidebar",
+    "path": "/product/sidebar/no-sidebar",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\product\\\\sidebar\\\\no-sidebar.vue",
+    "chunkName": "pages/product/sidebar/no-sidebar"
+  },
+  {
+    "name": "product-sidebar-right-sidebar",
+    "path": "/product/sidebar/right-sidebar",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\product\\\\sidebar\\\\right-sidebar.vue",
+    "chunkName": "pages/product/sidebar/right-sidebar"
+  },
+  {
+    "name": "product-three-column-thumbnail-bottom",
+    "path": "/product/three-column/thumbnail-bottom",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\product\\\\three-column\\\\thumbnail-bottom.vue",
+    "chunkName": "pages/product/three-column/thumbnail-bottom"
+  },
+  {
+    "name": "product-three-column-thumbnail-left",
+    "path": "/product/three-column/thumbnail-left",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\product\\\\three-column\\\\thumbnail-left.vue",
+    "chunkName": "pages/product/three-column/thumbnail-left"
+  },
+  {
+    "name": "product-three-column-thumbnail-right",
+    "path": "/product/three-column/thumbnail-right",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\product\\\\three-column\\\\thumbnail-right.vue",
+    "chunkName": "pages/product/three-column/thumbnail-right"
+  },
+  {
+    "name": "product-thumbnail-image-image-outside",
+    "path": "/product/thumbnail-image/image-outside",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\product\\\\thumbnail-image\\\\image-outside.vue",
+    "chunkName": "pages/product/thumbnail-image/image-outside"
+  },
+  {
+    "name": "product-thumbnail-image-left-image",
+    "path": "/product/thumbnail-image/left-image",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\product\\\\thumbnail-image\\\\left-image.vue",
+    "chunkName": "pages/product/thumbnail-image/left-image"
+  },
+  {
+    "name": "product-thumbnail-image-right-image",
+    "path": "/product/thumbnail-image/right-image",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\product\\\\thumbnail-image\\\\right-image.vue",
+    "chunkName": "pages/product/thumbnail-image/right-image"
+  },
+  {
+    "name": "products-details-no-sidebar",
+    "path": "/products/details/no-sidebar",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\products\\\\details\\\\no-sidebar.vue",
+    "chunkName": "pages/products/details/no-sidebar"
+  },
+  {
+    "name": "products-details-right-sidebar",
+    "path": "/products/details/right-sidebar",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\products\\\\details\\\\right-sidebar.vue",
+    "chunkName": "pages/products/details/right-sidebar"
+  },
+  {
+    "name": "page-account-auth-auth",
+    "path": "/page/account/auth/auth",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\page\\\\account\\\\auth\\\\auth.js",
+    "chunkName": "pages/page/account/auth/auth"
+  },
+  {
+    "name": "shop-jewellery-components-category",
+    "path": "/shop/jewellery/components/category",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\shop\\\\jewellery\\\\components\\\\category.vue",
+    "chunkName": "pages/shop/jewellery/components/category"
+  },
+  {
+    "name": "shop-jewellery-components-instagram",
+    "path": "/shop/jewellery/components/instagram",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\shop\\\\jewellery\\\\components\\\\instagram.vue",
+    "chunkName": "pages/shop/jewellery/components/instagram"
+  },
+  {
+    "name": "shop-jewellery-components-parallax-banner",
+    "path": "/shop/jewellery/components/parallax-banner",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\shop\\\\jewellery\\\\components\\\\parallax-banner.vue",
+    "chunkName": "pages/shop/jewellery/components/parallax-banner"
+  },
+  {
+    "name": "shop-jewellery-components-product-slider",
+    "path": "/shop/jewellery/components/product-slider",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\shop\\\\jewellery\\\\components\\\\product-slider.vue",
+    "chunkName": "pages/shop/jewellery/components/product-slider"
+  },
+  {
+    "name": "shop-jewellery-components-product-tab",
+    "path": "/shop/jewellery/components/product-tab",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\shop\\\\jewellery\\\\components\\\\product-tab.vue",
+    "chunkName": "pages/shop/jewellery/components/product-tab"
+  },
+  {
+    "name": "shop-jewellery-components-services",
+    "path": "/shop/jewellery/components/services",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\shop\\\\jewellery\\\\components\\\\services.vue",
+    "chunkName": "pages/shop/jewellery/components/services"
+  },
+  {
+    "name": "shop-jewellery-components-slider",
+    "path": "/shop/jewellery/components/slider",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\shop\\\\jewellery\\\\components\\\\slider.vue",
+    "chunkName": "pages/shop/jewellery/components/slider"
+  },
+  {
+    "name": "collection-leftsidebar-id",
+    "path": "/collection/leftsidebar/:id?",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\collection\\\\leftsidebar\\\\_id.vue",
+    "chunkName": "pages/collection/leftsidebar/_id"
+  },
+  {
+    "name": "product-sidebar-id",
+    "path": "/product/sidebar/:id?",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\product\\\\sidebar\\\\_id.vue",
+    "chunkName": "pages/product/sidebar/_id"
+  },
+  {
+    "name": "products-details-id",
+    "path": "/products/details/:id?",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\products\\\\details\\\\_id.vue",
+    "chunkName": "pages/products/details/_id"
+  },
+  {
+    "name": "products-id",
+    "path": "/products/:id",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\products\\\\_id.vue",
+    "chunkName": "pages/products/_id"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\Shahan\\\\Downloads\\\\Al-Hassan-Diamong-Gallery-main\\\\Al-Hassan-Diamong-Gallery-main\\\\pages\\\\index.vue",
+    "chunkName": "pages/index"
+  }
+]

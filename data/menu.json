@@ -1,0 +1,36 @@
+{
+    "data": [
+          {
+            "title": "Home", "type": "sub", "badgeValue": "new", "active": false, "path" : "/"  
+          },
+          {
+            "title": "Shop", "type": "sub", "active": false, "path": "/products", 
+            "children": [
+              { "title": "Nose Pin", "type": "link"},
+              { "title": "Ring", "type": "link",
+              "children": [
+                { "title": "Men Collection", "type": "link" },
+                { "title": "Female Collection", "type": "link" }
+              ] },
+              { "title": "Earring", "type": "link" },
+              { "title": "Pendant", "type": "link" },
+              { "title": "Bracelet", "type": "link",
+                "children": [
+                  { "title": "Men Collection", "type": "link" },
+                  { "title": "Female Collection", "type": "link" }
+                ] },
+              { "title": "Gold Churi", "type": "link" },
+              { "title": "Diamond Set", "type": "link" },
+              { "title": "Polki Jewellery", "type": "link" },
+              { "title": "Antique Jewellery", "type": "link" }
+            ]
+          },
+          {
+            "title": "About Us", "type": "sub", "badgeValue": "new", "active": false, "path": "/about-us"  
+          },
+          {
+            "title": "Store Locator", "type": "sub", "badgeValue": "new", "active": false, "path": "/store-locator"   
+          }
+        ]
+  }
+  
